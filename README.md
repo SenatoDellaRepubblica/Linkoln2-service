@@ -24,4 +24,5 @@ In standard output there is the parsed text.
 ## License
 
 This project is licensed under the [GPL 3](/LICENSE). Copyright (c) 2020-2021 Senato della Repubblica.
+
 The Linkoln2 library is licensed under the [GPL 3](/LICENSE). Copyright (c) Institute of Legal Information and Judicial Systems IGSG-CNR (formerly ITTIG-CNR)
